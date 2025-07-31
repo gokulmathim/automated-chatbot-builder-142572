@@ -1,1 +1,3 @@
-# automated-chatbot-builder-142572
+# Project Repository
+
+This is the initial README file for the project.
